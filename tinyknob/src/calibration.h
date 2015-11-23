@@ -1,3 +1,0 @@
-void setCalibration();
-void readCalibration();
-
