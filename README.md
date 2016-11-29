@@ -1,4 +1,4 @@
-# [knobbox](http://sprobertson.com/projects/knobbox)
+# [knobbox](http://iams.pro/projects/knobbox)
 
 The knobbox is a USB connected knob in a box, designed to be both useful and easy to make.
 
